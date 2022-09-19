@@ -4,7 +4,7 @@ public class Exception {
 
 	public static void main(String[] args) {
 		  
-		System.out.println("Checking for commit"); // I am editing this file to check git pull.
+		System.out.println("Checking for commit"); // I am updating this file to check git pull.
 		System.out.println("Commiting");
 		int arr[] = new int[9];
 		try {
