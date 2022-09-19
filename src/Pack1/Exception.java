@@ -5,6 +5,7 @@ public class Exception {
 	public static void main(String[] args) {
 		  
 		System.out.println("Checking for commit");
+		System.out.println("Commiting");
 		int arr[] = new int[9];
 		try {
 		arr[78] = 19/0;
